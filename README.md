@@ -25,6 +25,6 @@ Data Analytics skills, learning roadmap, and certifications
 ## Learning Journey
 - SQL → Excel → Power BI → Python → Tableau
 - ✅ Oracle SQL, Advanced Excel — Done  
-- ⚡ Power BI — Ongoing  
-- 🐍 Python, 🖼️ Tableau — Next Up
+- ⚡ Power BI, 🐍 Python — Ongoing  
+- 🖼️ Tableau — Next Up
 
